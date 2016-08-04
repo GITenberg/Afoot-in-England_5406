@@ -1,0 +1,38 @@
+_repo: Afoot-in-England_5406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: W. H. Hudson's account of his rambles through rural England. In these
+  vignettes, the renowned naturalist shows that he is a keen student of the human
+  being, as well as of the animals and birds he loves so much.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel'
+- GITenberg
+tableOfContents: 'Guide-books: an introduction -- On going back -- Walking and cycling
+  -- Seeking a shelter -- Wind, wave, and spirit -- By Swallowfield -- Roman Calleva
+  -- A gold day at Silchester -- Rural rides -- The last of his name -- Salisbury
+  and its doves -- Whitesheet Hill -- Bath and Wells revisited -- The return of the
+  native -- Summer days on the Otter -- In praise of the cow -- An old road leading
+  nowhere -- Branscombe -- Abbotsbury -- Salisbury revisited -- Stonehenge -- The
+  village and "The Stones" -- Following a river -- Troston -- My friend Jack.'
+title: Afoot in England
+url: http://www.gutenberg.org/ebooks/5406
