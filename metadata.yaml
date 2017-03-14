@@ -1,5 +1,8 @@
 _repo: Afoot-in-England_5406
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson, W. H. (William Henry)
@@ -14,6 +17,8 @@ creator:
 description: W. H. Hudson's account of his rambles through rural England. In these
   vignettes, the renowned naturalist shows that he is a keen student of the human
   being, as well as of the animals and birds he loves so much.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5406#Afoot-in-England
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
